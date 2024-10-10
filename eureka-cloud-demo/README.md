@@ -9,3 +9,5 @@
 - **服务消费者**（使用Feign进行调用）
 
 ![framework](README/framework.png)
+
+详细的可以看博客：https://zhifengmuxue.top/2024/10/10/2024-10-10/
